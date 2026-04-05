@@ -1,23 +1,27 @@
 <!-- Animated Wave Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0b0f,30:00D4FF,70:00ff88,100:0a0b0f&height=250&section=header&text=⚡%20TSHIRELETSO%20SELEMELA&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=STEWIECANCODE_SA%20|%20FULL%20STACK%20DEVELOPER%20%7C%20CS%20%26%20IT%20GRADUATE&descAlignY=55&descSize=15&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0b0f,25:001a2e,60:00D4FF,100:00ff88&height=280&section=header&text=TSHIRELETSO%20SELEMELA&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20stewiecancode__sa%20%7C%20%F0%9F%87%BF%F0%9F%87%A6%20South%20Africa&descAlignY=58&descSize=15&descAlign=50" width="100%" />
 </div>
 
 <!-- Animated Typing -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=20&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=Building+Web+%26+Mobile+Apps+from+%F0%9F%87%BF%F0%9F%87%A6+South+Africa;React+%7C+Node.js+%7C+C%23+%7C+.NET+%7C+TypeScript;NQF+L4+Computer+Science+%26+IT+Graduate+%F0%9F%8E%93" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=20&duration=2000&pause=600&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=Building+Web+%26+Mobile+Apps+from+%F0%9F%87%BF%F0%9F%87%A6;React+%7C+Node.js+%7C+C%23+%7C+.NET+%7C+TypeScript;NQF+L4+Computer+Science+%26+IT+Graduate+%F0%9F%8E%93+%7C+Open+to+Work+%F0%9F%9F%A2" alt="Typing Animation" />
 </div>
 
 <br>
 
+<!-- Social Badges -->
 <p align="center">
   <a href="mailto:tshireletsoselemela17@gmail.com"><img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0b0f" /></a>
   <a href="https://www.linkedin.com/in/tshireletso-selemela-00a283253/"><img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0b0f" /></a>
   <a href="https://instagram.com/stewiecancode_sa"><img src="https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0b0f" /></a>
   <a href="https://tiktok.com/@stewiecancode_sa"><img src="https://img.shields.io/badge/🎵_TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0a0b0f" /></a>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=tshire-13&label=Profile%20Views&color=00D4FF&style=for-the-badge&labelColor=0a0b0f" alt="Profile Views" />
+  <!-- WORKING visitor counter via visitorbadge.io -->
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftshire-13&label=PROFILE%20VIEWS&labelColor=%230a0b0f&countColor=%2300D4FF&style=for-the-badge" alt="Visitor Count" />
 </p>
+
+<br>
 
 <!-- Animated Contribution Snake -->
 <div align="center">
@@ -35,11 +39,9 @@
 <!-- About Section -->
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> ABOUT ME
-
-<img align="right" height="180" width="240" alt="Coding" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 ```typescript
 const tshireletso = {
@@ -60,25 +62,24 @@ const tshireletso = {
     "🚀 Building full-stack web apps",
     "📱 Cross-platform mobile development",
     "☁️  Cloud & serverless architecture",
-    "🤖 Exploring AI integrations"
+    "🎬 Video editing & UI design"
   ],
 
-  funFact: "I also edit videos & design 🎬"
+  status: "🟢 Open to collaborations & opportunities"
 };
 ```
 
-**My Edge:** Passionate about shipping clean, scalable products — from database to deployment.
-
 </td>
-<td width="40%" valign="top" align="center">
+<td width="45%" valign="top" align="center">
+
+<br>
+
+<!-- Coding GIF — stable URL -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="Developer coding animation" />
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="280">
-
-<br><br>
-
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> QUICK FACTS
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="26"> QUICK FACTS
 
 ```
 🎓  NQF L4 CS & IT Graduate
@@ -95,101 +96,39 @@ const tshireletso = {
 
 <br>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+
 <!-- Tech Stack -->
 <div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> TECH ARSENAL
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> TECH ARSENAL
 
+<!-- Row 1: Skill Icons (confirmed working) -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,cs,react,nodejs,dotnet,tailwind,html,css,firebase,aws,mysql,git,github,vscode,figma&perline=8&theme=dark" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,cs,react,nodejs,dotnet,tailwind,html,css,firebase,aws,mysql,git,github,vscode&perline=8&theme=dark" />
+  </a>
 </p>
 
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
+<br>
+
+<!-- Row 2: Devicons via jsdelivr CDN (pure SVG, always renders) -->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="45" height="45" alt=".NET" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" alt="MSSQL" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45" alt="Firebase" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" />
+</p>
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-
-<!-- Projects -->
-<div align="center">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> FLAGSHIP PROJECTS
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="33%" align="center" valign="top">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-
-### 🌐 Full Stack Web App
-
-**React + Node.js Platform**
-
-Modern web application with full frontend and backend integration.
-
-**Features:**
-- REST API (Express)
-- Auth with JWT
-- Responsive UI
-- Database-driven
-
-**Tech:** React • Node.js • MySQL • Tailwind
-
-<a href="https://github.com/tshire-13"><img src="https://img.shields.io/badge/View_on_GitHub-00D4FF?style=for-the-badge" /></a>
-
-</td>
-<td width="33%" align="center" valign="top">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-
-### 📱 Mobile Application
-
-**React Native App**
-
-Cross-platform mobile app built with React Native.
-
-**Features:**
-- Cross-Platform iOS & Android
-- Firebase Backend
-- Real-time Data
-- Clean UX
-
-**Tech:** React Native • Firebase • JavaScript
-
-<a href="https://github.com/tshire-13"><img src="https://img.shields.io/badge/View_on_GitHub-00ff88?style=for-the-badge" /></a>
-
-</td>
-<td width="33%" align="center" valign="top">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-
-### 🖥️ .NET Enterprise App
-
-**ASP.NET MVC System**
-
-Enterprise-grade application built with C# and .NET.
-
-**Features:**
-- MVC Architecture
-- MSSQL Database
-- Blazor Components
-- Role-based Auth
-
-**Tech:** C# • ASP.NET • MSSQL • Blazor
-
-<a href="https://github.com/tshire-13"><img src="https://img.shields.io/badge/View_on_GitHub-00D4FF?style=for-the-badge" /></a>
-
-</td>
-</tr>
-</table>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
@@ -201,49 +140,36 @@ Enterprise-grade application built with C# and .NET.
 <table width="100%">
 <tr>
 <td width="50%">
-
 <img src="https://github-readme-stats.vercel.app/api?username=tshire-13&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0b0f&title_color=00D4FF&icon_color=00ff88&text_color=ffffff&count_private=true&include_all_commits=true" width="100%" />
-
 </td>
 <td width="50%">
-
 <img src="https://nirzak-streak-stats.vercel.app/?user=tshire-13&theme=chartreuse-dark&hide_border=true&background=0a0b0f&ring=00D4FF&fire=ff2d78&currStreakLabel=00D4FF" width="100%" />
-
 </td>
 </tr>
 </table>
 
+<br>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tshire-13&theme=react-dark&hide_border=true&bg_color=0a0b0f&color=00D4FF&line=00ff88&point=fff&area=true&area_color=00D4FF" width="95%" />
+
+<br>
 
 <table width="100%">
 <tr>
 <td width="50%">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tshire-13&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0b0f&title_color=00D4FF&text_color=ffffff&langs_count=8" width="100%" />
-
 </td>
 <td width="50%">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tshire-13&theme=radical&utcOffset=2" width="100%" />
-
 </td>
 </tr>
 </table>
-
-</div>
-
-<!-- Trophies -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32"> ACHIEVEMENTS
-
-<img src="https://github-profile-trophy.vercel.app/?username=tshire-13&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Stars,Followers" width="100%" />
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
-<!-- Impact Metrics -->
+<!-- What I Bring -->
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> WHAT I BRING
@@ -321,7 +247,7 @@ timeline
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Coding footer animation" />
 
 <br>
 
@@ -329,9 +255,10 @@ timeline
 
 <br><br>
 
-[![Visit Count](https://visitcount.itsvg.in/api?id=tshire-13&icon=6&color=6)](https://visitcount.itsvg.in)
+<!-- WORKING visit counter — increments on every page load -->
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftshire-13&label=TOTAL%20VISITORS&labelColor=%230a0b0f&countColor=%2300ff88&style=flat-square" />
 
 </div>
 
 <!-- Animated Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0b0f,50:00D4FF,100:0a0b0f&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:00D4FF,100:0a0b0f&height=120&section=footer" width="100%" />

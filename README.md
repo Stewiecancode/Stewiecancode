@@ -1,24 +1,23 @@
 <!-- Animated Wave Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0b0f,25:001a2e,60:00D4FF,100:00ff88&height=280&section=header&text=TSHIRELETSO%20SELEMELA&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20stewiecancode__sa%20%7C%20%F0%9F%87%BF%F0%9F%87%A6%20South%20Africa&descAlignY=58&descSize=15&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020818,25:0a1628,60:1a4a8a,100:a8d4f5&height=280&section=header&text=TSHIRELETSO%20SELEMELA&fontSize=46&fontColor=e8f4fd&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20stewiecancode__sa%20%7C%20%F0%9F%87%BF%F0%9F%87%A6%20South%20Africa&descAlignY=58&descSize=15&descAlign=50" width="100%" />
 </div>
 
 <!-- Animated Typing -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=20&duration=2000&pause=600&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=Building+Web+%26+Mobile+Apps+from+%F0%9F%87%BF%F0%9F%87%A6;React+%7C+Node.js+%7C+C%23+%7C+.NET+%7C+TypeScript;NQF+L4+Computer+Science+%26+IT+Graduate+%F0%9F%8E%93+%7C+Open+to+Work+%F0%9F%9F%A2" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=20&duration=2000&pause=600&color=a8d4f5&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=Building+Web+%26+Mobile+Apps+from+%F0%9F%87%BF%F0%9F%87%A6;React+%7C+Node.js+%7C+C%23+%7C+.NET+%7C+TypeScript;NQF+L4+Computer+Science+%26+IT+Graduate+%F0%9F%8E%93+%7C+Open+to+Work+%F0%9F%9F%A2" alt="Typing Animation" />
 </div>
 
 <br>
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="mailto:tshireletsoselemela17@gmail.com"><img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0b0f" /></a>
-  <a href="https://www.linkedin.com/in/tshireletso-selemela-00a283253/"><img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0b0f" /></a>
-  <a href="https://instagram.com/stewiecancode_sa"><img src="https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0b0f" /></a>
-  <a href="https://tiktok.com/@stewiecancode_sa"><img src="https://img.shields.io/badge/🎵_TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0a0b0f" /></a>
+  <a href="mailto:tshireletsoselemela17@gmail.com"><img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020818" /></a>
+  <a href="https://www.linkedin.com/in/tshireletso-selemela-00a283253/"><img src="https://img.shields.io/badge/💼_LinkedIn-1a4a8a?style=for-the-badge&logo=linkedin&logoColor=e8f4fd&labelColor=020818" /></a>
+  <a href="https://instagram.com/stewiecancode_sa"><img src="https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=020818" /></a>
+  <a href="https://tiktok.com/@stewiecancode_sa"><img src="https://img.shields.io/badge/🎵_TikTok-2d6ea8?style=for-the-badge&logo=tiktok&logoColor=e8f4fd&labelColor=020818" /></a>
   <br><br>
-  <!-- WORKING visitor counter via visitorbadge.io -->
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftshire-13&label=PROFILE%20VIEWS&labelColor=%230a0b0f&countColor=%2300D4FF&style=for-the-badge" alt="Visitor Count" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftshire-13&label=PROFILE%20VIEWS&labelColor=%23020818&countColor=%23a8d4f5&style=for-the-badge" alt="Visitor Count" />
 </p>
 
 <br>
@@ -74,7 +73,6 @@ const tshireletso = {
 
 <br>
 
-<!-- Coding GIF — stable URL -->
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="Developer coding animation" />
 
 <br><br>
@@ -103,7 +101,6 @@ const tshireletso = {
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> TECH ARSENAL
 
-<!-- Row 1: Skill Icons (confirmed working) -->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,cs,react,nodejs,dotnet,tailwind,html,css,firebase,aws,mysql,git,github,vscode&perline=8&theme=dark" />
@@ -112,7 +109,6 @@ const tshireletso = {
 
 <br>
 
-<!-- Row 2: Devicons via jsdelivr CDN (pure SVG, always renders) -->
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" />&nbsp;&nbsp;
@@ -140,27 +136,27 @@ const tshireletso = {
 <table width="100%">
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=tshire-13&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0b0f&title_color=00D4FF&icon_color=00ff88&text_color=ffffff&count_private=true&include_all_commits=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=tshire-13&show_icons=true&hide_border=true&bg_color=020818&title_color=a8d4f5&icon_color=5ba3d9&text_color=d6eaf8&count_private=true&include_all_commits=true" width="100%" />
 </td>
 <td width="50%">
-<img src="https://nirzak-streak-stats.vercel.app/?user=tshire-13&theme=chartreuse-dark&hide_border=true&background=0a0b0f&ring=00D4FF&fire=ff2d78&currStreakLabel=00D4FF" width="100%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=tshire-13&hide_border=true&background=020818&ring=a8d4f5&fire=5ba3d9&currStreakLabel=a8d4f5&currStreakNum=d6eaf8&sideNums=d6eaf8&sideLabels=5ba3d9&dates=6b9ec9" width="100%" />
 </td>
 </tr>
 </table>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tshire-13&theme=react-dark&hide_border=true&bg_color=0a0b0f&color=00D4FF&line=00ff88&point=fff&area=true&area_color=00D4FF" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tshire-13&theme=react-dark&hide_border=true&bg_color=020818&color=a8d4f5&line=5ba3d9&point=d6eaf8&area=true&area_color=1a4a8a" width="95%" />
 
 <br>
 
 <table width="100%">
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tshire-13&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0b0f&title_color=00D4FF&text_color=ffffff&langs_count=8" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tshire-13&layout=compact&hide_border=true&bg_color=020818&title_color=a8d4f5&text_color=d6eaf8&langs_count=8" width="100%" />
 </td>
 <td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tshire-13&theme=radical&utcOffset=2" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tshire-13&theme=nord_dark&utcOffset=2" width="100%" />
 </td>
 </tr>
 </table>
@@ -209,7 +205,7 @@ const tshireletso = {
 ## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="28" /> MY JOURNEY
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#0a0b0f','primaryTextColor':'#00D4FF','primaryBorderColor':'#00D4FF','lineColor':'#00ff88'}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#0a1628','primaryTextColor':'#a8d4f5','primaryBorderColor':'#5ba3d9','lineColor':'#1a4a8a','secondaryColor':'#020818','tertiaryColor':'#0d2545'}}}%%
 timeline
     title stewiecancode_sa — Dev Journey
     School : Discovered programming
@@ -231,18 +227,18 @@ timeline
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> LET'S BUILD SOMETHING
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=18&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=NQF+L4+CS+%26+IT+Graduate+%7C+Open+to+Opportunities;Full+Stack+%E2%9A%A1+%7C+Web+%26+Mobile+%F0%9F%93%B1+%7C+Cloud+%E2%98%81%EF%B8%8F;Remote+%E2%9C%93+%7C+Hybrid+%E2%9C%93+%7C+On-site+%E2%9C%93" alt="Status" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=18&duration=2000&pause=1000&color=a8d4f5&center=true&vCenter=true&width=800&lines=NQF+L4+CS+%26+IT+Graduate+%7C+Open+to+Opportunities;Full+Stack+%E2%9A%A1+%7C+Web+%26+Mobile+%F0%9F%93%B1+%7C+Cloud+%E2%98%81%EF%B8%8F;Remote+%E2%9C%93+%7C+Hybrid+%E2%9C%93+%7C+On-site+%E2%9C%93" alt="Status" />
 
 <br>
 
 <a href="mailto:tshireletsoselemela17@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/📧_Email_Me-1a4a8a?style=for-the-badge&logo=gmail&logoColor=e8f4fd" />
 </a>
 <a href="https://www.linkedin.com/in/tshireletso-selemela-00a283253/">
-  <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0d2d5e?style=for-the-badge&logo=linkedin&logoColor=a8d4f5" />
 </a>
 <a href="https://github.com/tshire-13">
-  <img src="https://img.shields.io/badge/🐙_View_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/🐙_View_GitHub-0a1628?style=for-the-badge&logo=github&logoColor=a8d4f5" />
 </a>
 
 <br><br>
@@ -255,10 +251,9 @@ timeline
 
 <br><br>
 
-<!-- WORKING visit counter — increments on every page load -->
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftshire-13&label=TOTAL%20VISITORS&labelColor=%230a0b0f&countColor=%2300ff88&style=flat-square" />
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftshire-13&label=TOTAL%20VISITORS&labelColor=%230a1628&countColor=%23a8d4f5&style=flat-square" />
 
 </div>
 
 <!-- Animated Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:00D4FF,100:0a0b0f&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a8d4f5,50:1a4a8a,100:020818&height=120&section=footer" width="100%" />

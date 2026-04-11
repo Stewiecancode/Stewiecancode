@@ -171,7 +171,7 @@ const tshireletso = {
 
 <div align="center">
   <img src="https://readme-stats-fork-mauve.vercel.app/api/?username=tshire-13&theme=dark&show_icons=true&count_private=true&title_color=34eb5c&icon_color=13e065&text_color=13e065&bg_color=0d1117" width="49%" />
-  <img src="https://github-readme-streak-stats-five-roan.vercel.app?user=KodEx-SA&theme=dark&ring=13e065&fire=34eb5c&currStreakLabel=13e065" width="49%" />
+  <img src="https://github-readme-streak-stats-five-roan.vercel.app?user=tshire-13&theme=dark&ring=13e065&fire=34eb5c&currStreakLabel=13e065" width="49%" />
 </div>
 
 ---

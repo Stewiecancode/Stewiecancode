@@ -136,27 +136,27 @@ const tshireletso = {
 <table width="100%">
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=tshire-13&show_icons=true&hide_border=true&bg_color=020818&title_color=a8d4f5&icon_color=5ba3d9&text_color=d6eaf8&count_private=true&include_all_commits=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Stewiecancode&show_icons=true&hide_border=true&bg_color=020818&title_color=a8d4f5&icon_color=5ba3d9&text_color=d6eaf8&count_private=true&include_all_commits=true" width="100%" />
 </td>
 <td width="50%">
-<img src="https://nirzak-streak-stats.vercel.app/?user=tshire-13&hide_border=true&background=020818&ring=a8d4f5&fire=5ba3d9&currStreakLabel=a8d4f5&currStreakNum=d6eaf8&sideNums=d6eaf8&sideLabels=5ba3d9&dates=6b9ec9" width="100%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Stewiecancode&hide_border=true&background=020818&ring=a8d4f5&fire=5ba3d9&currStreakLabel=a8d4f5&currStreakNum=d6eaf8&sideNums=d6eaf8&sideLabels=5ba3d9&dates=6b9ec9" width="100%" />
 </td>
 </tr>
 </table>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tshire-13&theme=react-dark&hide_border=true&bg_color=020818&color=a8d4f5&line=5ba3d9&point=d6eaf8&area=true&area_color=1a4a8a" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Stewiecancode&theme=react-dark&hide_border=true&bg_color=020818&color=a8d4f5&line=5ba3d9&point=d6eaf8&area=true&area_color=1a4a8a" width="95%" />
 
 <br>
 
 <table width="100%">
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tshire-13&layout=compact&hide_border=true&bg_color=020818&title_color=a8d4f5&text_color=d6eaf8&langs_count=8" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stewiecancode&layout=compact&hide_border=true&bg_color=020818&title_color=a8d4f5&text_color=d6eaf8&langs_count=8" width="100%" />
 </td>
 <td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tshire-13&theme=nord_dark&utcOffset=2" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Stewiecancode&theme=nord_dark&utcOffset=2" width="100%" />
 </td>
 </tr>
 </table>
@@ -170,8 +170,8 @@ const tshireletso = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://readme-stats-fork-mauve.vercel.app/api/?username=tshire-13&theme=dark&show_icons=true&count_private=true&title_color=34eb5c&icon_color=13e065&text_color=13e065&bg_color=0d1117" width="49%" />
-  <img src="https://github-readme-streak-stats-five-roan.vercel.app?user=tshire-13&theme=dark&ring=13e065&fire=34eb5c&currStreakLabel=13e065" width="49%" />
+  <img src="https://readme-stats-fork-mauve.vercel.app/api/?username=Stewiecancode&theme=dark&show_icons=true&count_private=true&title_color=34eb5c&icon_color=13e065&text_color=13e065&bg_color=0d1117" width="49%" />
+  <img src="https://github-readme-streak-stats-five-roan.vercel.app?user=Stewiecancode&theme=dark&ring=13e065&fire=34eb5c&currStreakLabel=13e065" width="49%" />
 </div>
 
 ---
@@ -249,7 +249,7 @@ timeline
 <a href="https://www.linkedin.com/in/tshireletso-selemela-00a283253/">
   <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0d2d5e?style=for-the-badge&logo=linkedin&logoColor=a8d4f5" />
 </a>
-<a href="https://github.com/tshire-13">
+<a href="https://github.com/Stewiecancode">
   <img src="https://img.shields.io/badge/🐙_View_GitHub-0a1628?style=for-the-badge&logo=github&logoColor=a8d4f5" />
 </a>
 
@@ -263,7 +263,7 @@ timeline
 
 <br><br>
 
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftshire-13&label=TOTAL%20VISITORS&labelColor=%230a1628&countColor=%23a8d4f5&style=flat-square" />
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FStewiecancode&label=TOTAL%20VISITORS&labelColor=%230a1628&countColor=%23a8d4f5&style=flat-square" />
 
 </div>
 

@@ -101,80 +101,41 @@ const tshireletso = {
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> TECH ARSENAL
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,cs,react,nodejs,dotnet,C#,tailwind,html,css,firebase,aws,mysql,git,github,vscode&perline=8&theme=dark" />
-  </a>
-</p>
-
 <br>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="45" height="45" alt=".NET" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" alt="MSSQL" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45" alt="Firebase" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" />
-</p>
+<!-- Animated Icons (SVG-based typing effect) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=800&color=A8D4F5&center=true&vCenter=true&width=600&lines=JavaScript+•+TypeScript+•+C%23;React+•+Node.js+•+.NET;AWS+•+Firebase+•+MySQL;Building+Full+Stack+Apps+⚡" />
+
+<br><br>
+
+<!-- Main Icons -->
+<img src="https://skillicons.dev/icons?i=js,ts,cs,react,nodejs,dotnet,tailwind,html,css,firebase,aws,mysql,git,github,vscode&perline=8&theme=dark" />
+
+<br><br>
+
+<!-- Subtle Animated Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 <!-- GitHub Stats -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GITHUB ANALYTICS
-
-<table width="100%">
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Stewiecancode&show_icons=true&hide_border=true&bg_color=020818&title_color=a8d4f5&icon_color=5ba3d9&text_color=d6eaf8&count_private=true&include_all_commits=true" width="100%" />
-</td>
-<td width="50%">
-<img src="https://nirzak-streak-stats.vercel.app/?user=Stewiecancode&hide_border=true&background=020818&ring=a8d4f5&fire=5ba3d9&currStreakLabel=a8d4f5&currStreakNum=d6eaf8&sideNums=d6eaf8&sideLabels=5ba3d9&dates=6b9ec9" width="100%" />
-</td>
-</tr>
-</table>
+## 📊 GitHub Analytics
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Stewiecancode&theme=react-dark&hide_border=true&bg_color=020818&color=a8d4f5&line=5ba3d9&point=d6eaf8&area=true&area_color=1a4a8a" width="95%" />
+<!-- Main Stats + Streak -->
+<img src="https://github-readme-stats.vercel.app/api?username=Stewiecancode&show_icons=true&hide_border=true&bg_color=020818&title_color=a8d4f5&icon_color=5ba3d9&text_color=d6eaf8&count_private=true&include_all_commits=true" width="49%" />
 
-<br>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Stewiecancode&hide_border=true&background=020818&ring=a8d4f5&fire=5ba3d9&currStreakLabel=a8d4f5&currStreakNum=d6eaf8&sideNums=d6eaf8&sideLabels=5ba3d9&dates=6b9ec9" width="49%" />
 
-<table width="100%">
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stewiecancode&layout=compact&hide_border=true&bg_color=020818&title_color=a8d4f5&text_color=d6eaf8&langs_count=8" width="100%" />
-</td>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Stewiecancode&theme=nord_dark&utcOffset=2" width="100%" />
-</td>
-</tr>
-</table>
+<br><br>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stewiecancode&layout=compact&hide_border=true&bg_color=020818&title_color=a8d4f5&text_color=d6eaf8" width="50%" />
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://readme-stats-fork-mauve.vercel.app/api/?username=Stewiecancode&theme=dark&show_icons=true&count_private=true&title_color=34eb5c&icon_color=13e065&text_color=13e065&bg_color=0d1117" width="49%" />
-  <img src="https://github-readme-streak-stats-five-roan.vercel.app?user=Stewiecancode&theme=dark&ring=13e065&fire=34eb5c&currStreakLabel=13e065" width="49%" />
-</div>
-
----
 
 
 <!-- What I Bring -->

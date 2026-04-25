@@ -103,13 +103,13 @@ const tshireletso = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,cs,react,nodejs,dotnet,tailwind,html,css,firebase,aws,mysql,git,github,vscode&perline=8&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,cs,react,nodejs,dotnet,C#,tailwind,html,css,firebase,aws,mysql,git,github,vscode&perline=8&theme=dark" />
   </a>
 </p>
 
 <br>
 
-<p align="center">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" />&nbsp;&nbsp;

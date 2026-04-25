@@ -126,7 +126,8 @@ const tshireletso = {
 <br>
 
 <!-- Main Stats + Streak -->
-<img src="https://github-readme-stats.vercel.app/api?username=Stewiecancode&show_icons=true&hide_border=true&bg_color=020818&title_color=a8d4f5&icon_color=5ba3d9&text_color=d6eaf8&count_private=true&include_all_commits=true" width="49%" />
+
+<img src="https://readme-stats-fork-mauve.vercel.app/api/?username=Stewiecancode&show_icons=true&hide_border=true&bg_color=020818&title_color=a8d4f5&icon_color=5ba3d9&text_color=d6eaf8&count_private=true" width="49%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Stewiecancode&hide_border=true&background=020818&ring=a8d4f5&fire=5ba3d9&currStreakLabel=a8d4f5&currStreakNum=d6eaf8&sideNums=d6eaf8&sideLabels=5ba3d9&dates=6b9ec9" width="49%" />
 

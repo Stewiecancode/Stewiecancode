@@ -133,6 +133,14 @@ const tshireletso = {
 
 <br><br>
 
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stewiecancode&layout=compact&theme=tokyonight" 
+    width="480" 
+    alt="Most Used Languages" 
+  />
+</div>
+
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stewiecancode&layout=compact&hide_border=true&bg_color=020818&title_color=a8d4f5&text_color=d6eaf8" width="50%" />
 

@@ -144,12 +144,6 @@ const tshireletso = {
 
 </div>
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stewiecancode&layout=compact&hide_border=true&bg_color=020818&title_color=a8d4f5&text_color=d6eaf8" width="50%" />
-
-</div>
-
-
 <!-- What I Bring -->
 <div align="center">
 

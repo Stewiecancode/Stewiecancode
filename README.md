@@ -1,4 +1,4 @@
-# Hi, I’m Tshireletso Selemela 👋
+# Hi, I’m Tshireletso Selemela 
 
 **Software Developer · Founder of Selemela Software Solutions · South Africa 🇿🇦**
 

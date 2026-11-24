@@ -63,12 +63,7 @@ One of our products is **Setla**, a platform for discovering free images and PSD
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Stewiecancode&layout=compact&hide_border=true&bg_color=0D1117&title_color=79C0FF&text_color=C9D1D9"
-    alt="Most used languages across public repositories"
-  />
-</p>
+
 
 ## Let’s connect
 
